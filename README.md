@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎓 Assistant Career Guidance Platform
 
-# Run and deploy your AI Studio app
+**Assistant Career Guidance Platform** is a modern, AI-powered web application that helps students explore career paths, discover colleges, and make informed academic choices after Class 10 and 12.  
+The platform combines **AI guidance**, **career quizzes**, and a **Supabase-backed database** to deliver personalized and data-driven recommendations.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1XnLFZgceePrwrEEVU00B4XKDgEFLnTLW
+🔗 **Live Site:** [https://assistantcareerguidance.netlify.app/](https://assistantcareerguidance.netlify.app/)
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+- 🎯 **AI-Based Career Guidance**  
+  Get personalized suggestions based on quiz responses and academic interests.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 🧠 **Career Quiz System**  
+  Evaluate strengths and preferences through interactive questions.
+
+- 🏫 **College Directory**  
+  Search colleges by course, stream, or location — integrated via Supabase database.
+
+- 📢 **Alerts & Announcements**  
+  Receive updates on admissions, scholarships, and government initiatives.
+
+- 📚 **Resource Library**  
+  Explore articles, videos, and guides related to education and career planning.
+
+- 💬 **Student Support**  
+  AI assistant and contact form to resolve student queries instantly.
+
+- 📱 **Responsive UI**  
+  Fully optimized for mobile, tablet, and desktop experiences.
+
+---
+
+## 🧩 System Architecture
+
