@@ -29,9 +29,6 @@ Stay informed about government schemes and educational opportunities.
 💬 **AI Chat Assistant**  
 Get real-time academic and career guidance using Gemini API.
 
-🔐 **Secure Authentication**  
-Student and admin roles managed via Supabase Auth.
-
 📱 **Responsive Design**  
 Optimized for mobile, tablet, and desktop viewing.
 
